@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "repo": "gioyik/mapc",
+  "description": "A simple associative-array library for C",
+  "keywords": ["map", "array", "lib", "c", "mapc"],
+  "license": "MIT",
+  "src": ["src/mapc_lib.c", "src/mapc_lib.h"]
+}
